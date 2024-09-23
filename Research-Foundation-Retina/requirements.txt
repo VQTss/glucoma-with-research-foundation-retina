@@ -1,0 +1,9 @@
+timm
+torch
+torchvision
+tqdm
+opencv-python-headless
+pillow
+pandas
+matplotlib
+albumentations
